@@ -1,0 +1,262 @@
+body {
+  width: 1655.306px;
+  height: 931px;
+  display: flex;
+  flex-shrink: 0;
+  background-size: cover;
+  overflow-x: hidden;
+  background-image: url(../image/Bitmap.png);
+  background-color: black;
+}
+
+.logo {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-top: 95px;
+  margin-left: 55px;
+}
+
+.container-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.whiteLine {
+  position: absolute;
+  width: 473px;
+  height: 1px;
+  flex-shrink: 0;
+  opacity: 0.2514851987361908;
+  background: #fff;
+  margin-top: 119px;
+  margin-left: 167px;
+}
+
+.destination a {
+  margin-left: 50px;
+}
+
+
+.navBox {
+  display: inline;
+  width: 830px;
+  height: 96px;
+  flex-shrink: 0;
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(40.774227142333984px);
+  margin-top: 71px;
+  margin-left: 480px;
+}
+
+.listNav {
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.listNav a {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: row;
+}
+
+.h4 {
+  color: #fff;
+  font-family: Barlow Condensed;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 2.7px;
+}
+
+.h2 {
+  color: #fff;
+  font-family: Barlow Condensed;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 2.7px;
+  margin-left: 10px;
+}
+
+.Home {
+  width: 100px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-left: 82px;
+}
+
+.crew {
+  width: 100px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-left: 60px;
+}
+
+.destination {
+  width: 100px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-left: 30px;
+}
+
+.technology {
+  width: 100px;
+  height: 48px;
+  flex-shrink: 0;
+  margin-left: 90px;
+}
+
+.container-2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 250px;
+  margin-left: 80px;
+  position: absolute;
+}
+
+.section1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.head1 {
+  color: #5c5c5c;
+  font-family: Barlow Condensed;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 4.725px;
+}
+
+.head2 {
+  margin-left: 20px;
+  color: #FFF;
+  font-family: Barlow Condensed;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 4.725px;
+  text-transform: uppercase;
+}
+
+.section2 {
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+.container-3 {
+  margin-top: 310px;
+  margin-left: 832px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 445px;
+  height: 472px;
+}
+
+.part1 {
+  display: flex;
+  flex-direction: row;
+  color: #FFF;
+  font-family: Barlow Condensed;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.7px;
+  width: 285.5px;
+  height: 34px;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+
+.part2 {
+  width: 41px;
+  height: 3px;
+  flex-shrink: 0;
+  background-color: #FFF;
+  margin-left: 75px;
+}
+
+.bigName {
+  margin-top: 20px;
+  color: #FFF;
+  font-family: Bellefair;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.part4 {
+  color: #D0D6F9;
+  font-family: Barlow;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  width: 444px;
+  /* 177.778% */
+}
+
+.part5 {
+  opacity: 0.2514851987361908;
+  margin-top: 80px;
+  width: 444px;
+  height: 1px;
+  flex-shrink: 0;
+  background-color: #FFF;
+}
+
+.part6 {
+  margin-top: 20px;
+  color: #D0D6F9;
+  font-family: Barlow Condensed;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.362px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: row;
+}
+
+.est {
+  margin-left: 80px;
+}
+
+.part7 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  color: #FFF;
+  font-family: Bellefair;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.days {
+  margin-left: 120px;
+}
+
+a {
+  text-decoration: none;
+  color: #FFF;
+}
